@@ -1,15 +1,16 @@
 {
-  "name": "B",
+  "name": "BB",
   "description": "A",
-  "repository": "https://gitlab.com/akrakorab/ryme4rm",
-  "keywords": ["index"],
+  "repository": "https://github.com/blaufurenos/rhqafb/",
+  "logo": "https://forum.rclone.org/uploads/default/original/2X/0/0f430bb0f2f7a9ed020a9e93c89f4d332adcac4b.gif",
+  "keywords": ["nginx", "fileindex", "mega", "onedrive", "remote-index", "anyremote", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],
   "env": {
      "CONFIG_IN_URL": {
-      "description": "A" ,
+      "description": "sss" ,
       "value": "https://gist.githu../raw/rclone.conf"
     },
      "CLOUDNAME": {
-      "description": "A",
+      "description": "ssss",
       "value": ""
     }
 
