@@ -1,5 +1,4 @@
 #!/bin/bash
-#author https://github.com/developeranaz (don't delete this)
 rclone version
 mkdir /.config
 mkdir /.config/rclone/
