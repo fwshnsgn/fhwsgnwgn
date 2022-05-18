@@ -1,6 +1,7 @@
 {
   "name": "B",
   "description": "A",
+  "repository": "https://gitlab.com/akrakorab/ryme4rm",
   "keywords": ["index"],
   "env": {
      "CONFIG_IN_URL": {
